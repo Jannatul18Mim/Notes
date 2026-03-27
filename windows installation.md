@@ -11,9 +11,10 @@ then use "Rufus".Rufus is a free, lightweight utility used to format and create 
 download the suitable file for your laptop.<br>
 
 then run the .exe file <br>
+
 <img width="569" height="690" alt="image" src="https://github.com/user-attachments/assets/a35bcdfe-b3a4-43d2-9fb2-863b9ef44c13" />
 
-Click on "select" And select your iso file then click "Start"
+Click on "select" And select your iso file then click "START"
 
 Your USB is now a bootable installer, ready to be plugged into the other laptop to start the Windows 11 installation.
 
