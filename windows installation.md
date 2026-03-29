@@ -19,6 +19,8 @@ then run the .exe file <br>
 
 Click on "select" And select your iso file then click "START"
 
+whene it will fully upload "Ready" will be green. click on finish. 
+
 Your USB is now a bootable installer, ready to be plugged into the other laptop to start the Windows 11 installation.
 
 ```### Note: Need a microsoft account or need a academic gmail account. IF you don't have just go with Windows 10 then update to Windows 11```
